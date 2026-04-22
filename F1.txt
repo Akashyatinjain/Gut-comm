@@ -38,3 +38,95 @@ Use: Creates and switches to a new branch.
 Use: Merges another branch into current branch.
 20. git push origin <branch>
 Use: Uploads local commits to remote repository.
+
+
+
+
+
+
+
+
+
+
+
+Basic Linux Commands
+🔹 1. ls
+Use: Lists files and directories in current folder
+Bash
+ls
+🔹 2. ls -l
+Use: Shows detailed file info (permissions, size, date)
+Bash
+ls -l
+🔹 3. pwd
+Use: Shows current directory path
+Bash
+pwd
+🔹 4. cd <directory>
+Use: Changes directory
+Bash
+cd Documents
+🔹 5. cd ..
+Use: Moves one directory back
+Bash
+cd ..
+🔹 6. mkdir <name>
+Use: Creates a new directory
+Bash
+mkdir project
+🔹 7. rmdir <name>
+Use: Deletes empty directory
+Bash
+rmdir project
+🔹 8. rm <file>
+Use: Deletes a file
+Bash
+rm file.txt
+🔹 9. rm -r <folder>
+Use: Deletes folder with contents
+Bash
+rm -r project
+🔹 10. touch <file>
+Use: Creates a new empty file
+Bash
+touch file.txt
+🔹 11. cat <file>
+Use: Displays file content
+Bash
+cat file.txt
+🔹 12. nano <file>
+Use: Opens file in terminal editor
+Bash
+nano file.txt
+🔹 13. cp <src> <dest>
+Use: Copies file
+Bash
+cp file.txt backup.txt
+🔹 14. mv <src> <dest>
+Use: Moves or renames file
+Bash
+mv file.txt newfile.txt
+🔹 15. clear
+Use: Clears terminal screen
+Bash
+clear
+🔹 16. history
+Use: Shows previously used commands
+Bash
+history
+🔹 17. whoami
+Use: Shows current user
+Bash
+whoami
+🔹 18. chmod
+Use: Changes file permissions
+Bash
+chmod 777 file.txt
+🔹 19. sudo
+Use: Run command as administrator
+Bash
+sudo apt update
+🔹 20. man <command>
+Use: Shows manual/help of command
+Bash
+man ls
